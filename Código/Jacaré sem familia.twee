@@ -1,0 +1,178 @@
+:: StoryTitle
+Jacaré sem familia
+
+
+:: StoryData
+{
+  "ifid": "6516D281-C233-4DF1-98BA-9A61746DFEC9",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "inicio",
+  "tag-colors": {
+    "side-quest": "orange",
+    "Final-mal": "red",
+    "Final-bom": "green"
+  },
+  "zoom": 0.6
+}
+
+
+:: Continuar no lago [Final-mal] {"position":"850,125","size":"100,100"}
+Um bando de hipopotamos conquistadores invadiram seu lago e destruiu tudo o que viram pela frente e, infelizmente, o pequeno jacaré foi massacrado brutalmente.
+
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/cartoon-scream-1-6835.mp3" autoplay></audio>
+
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/ataque%20de%20hipopotamos.jpg?raw=true" alt="Imagem de um jacaré solitário sendo atacado por hipopotamos" style="max-width: 100%; height: auto;">
+
+Você teve um péssimo fim, volte no início e tente novamente.
+[[inicio]]
+
+
+:: Juntar com os patos {"position":"400,900","size":"100,100"}
+Os patos gostaram muito do jacaré e começaram a acompahar o jacaré em sua aventura.
+
+E convidaram o jacaré para ir na sua casa
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/walking-on-leaves-260279.mp3" autoplay></audio>
+[[caminhar até a casa dos patos]]
+
+
+:: aguentar a fome {"position":"675,1450","size":"100,100"}
+O jacaré decidiu aguentar a sua fome e continuou a caminhar com o grupo de patos.
+No final do caminho eles chegaram em uma cabana no meio do mato
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/walking-on-leaves-260279.mp3" autoplay></audio>
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/Chegando%20a%20uma%20cabana%20no%20mato.jpg?raw=true" alt="Imagem de um jacaré solitário chegando no lago" style="max-width: 100%; height: auto;">
+
+[[entrar na cabana]]
+[[fugir]]
+
+
+:: averiguar o barulho {"position":"775,1025","size":"100,100"}
+Ao chegar perto do barulho ele começou a escutar a conversa e eram 2 hipopotamos decidindo quem eles iram atacar
+
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/muffled-talking-6161.mp3" autoplay></audio>
+
+[[falar com os patos]]
+[[enfrentar os hipopotamos]]
+[[fugir]]
+
+
+:: caminhar até a casa dos patos {"position":"625,1250","size":"100,100"}
+Quando estavam caminhando o jacaré começou a sentir bastante fome e começou a olhar com outros olhos para bando de patos
+
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/walking-on-leaves-260279.mp3" autoplay></audio>
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/jacar%C3%A9%20com%20fome%20olhando%20para%20os%20patos.jpg?raw=true" alt="Imagem de um jacaré solitário chegando no lago" style="max-width: 100%; height: auto;">
+
+[[comer os patos]]
+[[aguentar a fome]]
+
+
+:: comer [side-quest] {"position":"475,450","size":"100,100"}
+Ele comeu o fruto misterioso e ao mastigar ele gostou muito do fruto e saciou a sua fome.
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/cartoon-bite-39234.mp3" autoplay></audio>
+[[seguir em frente]]
+[[comer mais]]
+
+
+:: comer mais [side-quest] {"position":"425,650","size":"100,100"}
+Ele gostou muito do fruto.
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/cartoon-bite-39234.mp3" autoplay></audio>
+[[comer]]
+[[seguir em frente]]
+
+
+:: comer os patos [Final-mal] {"position":"400,1425","size":"100,100"}
+O jacaré tomou a pior decisão da vida dele, escolheu comer os seus novos amigos, os patos. Porém os patos além da aparência fofinha, eles são extremamente habilidosos na arte marcial Muay Thai e todos se juntaram contra o jacaré e massacrou ele brutalmente.
+
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/cartoon-scream-1-6835.mp3" autoplay></audio>
+
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/Sendo%20atacado%20pelo%20grupo%20de%20patos.jpg?raw=true" alt="Imagem de um jacaré solitário chegando no lago" style="max-width: 100%; height: auto;">
+
+A história teve um péssimo final, volte e tente novamente.
+[[inicio]]
+
+
+:: enfrentar os hipopotamos [Final-mal] {"position":"275,1300","size":"100,100"}
+O jacaré indignado com a situação decidiu atacar os hipopotamos, porém ele foi brutamente massacrado, pois ele era muito fraco e pequeno.
+
+
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/fugindo%20e%20sendo%20atacado%20pelos%20hipopotamos.jpg?raw=true" alt="Imagem de um jacaré solitário chegando no lago" style="max-width: 100%; height: auto;">
+
+[[inicio]]
+
+
+:: entrar na cabana [Final-bom] {"position":"100,1825","size":"100,100"}
+Ao entrar na cabana o grupo de patos deram um banquete para o jacaré e ele pode saciar a sua fome. E finalmente, depois de muitos anos, o jacaré finalmente se sentiu acolhido e com a sensação de "em casa" e aprendeu que a verdadeira familia são os amigos que fazemos pelo caminho.
+
+FIM.
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/cartoon-142268.mp3" autoplay></audio>
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/Comendo%20com%20os%20patos%20dentro%20da%20cabana.jpg?raw=true" alt="Imagem de um jacaré solitário chegando no lago" style="max-width: 100%; height: auto;">
+
+[[inicio]]
+
+
+:: falar com os patos {"position":"600,750","size":"100,100"}
+Os pequenos patos altertaram o jacaré sobre a existencia de um grupo de hipopotamos arruaceiros que causavam encrencas com quaquer um que passassem na frente dele.
+
+Após isso, o grupinho de patos convidou o jacaré para se juntar com eles
+
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/weird-talking-47375.mp3" autoplay></audio>
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/conversando%20com%20os%20patos.jpg?raw=true" alt="Imagem de um jacaré solitário chegando no lago" style="max-width: 100%; height: auto;">
+
+[[Juntar com os patos]]
+[[ignorar os patos]]
+
+
+:: fugir [Final-mal] {"position":"150,1150","size":"100,100"}
+O jacaré com medo da situação  saiu correndo, porém no caminho ele foi encontrado por um bando de hipopotamos e foi massacrado brutalmente
+
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/cartoon-scream-1-6835.mp3" autoplay></audio>
+
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/fugindo%20e%20sendo%20atacado%20pelos%20hipopotamos.jpg?raw=true" alt="Imagem de um jacaré solitário chegando no lago" style="max-width: 100%; height: auto;">
+
+[[inicio]]
+
+
+:: ignorar os patos {"position":"950,775","size":"100,100"}
+O jacaré não quis saber dos patos e o ignou e decidiu seguir sozinho.
+
+Ele, quando menos esperava, escutou muitos barulhos vindo do seu lado direto.
+
+[[averiguar o barulho]]
+Voltar e [[falar com os patos]]
+
+
+:: inicio {"position":"450,100","size":"100,100"}
+//Antes de começar a jogar, dê permissão para o seu navegador reproduzir sons para ser melhor a sua experiência.//
+
+
+<h1> O jacaré sem família </h1>
+<p>Era uma vez um pequeno jacaré, ele não tinha amigos, era muito solitário. Certo dia, ele ficou sabendo que exitia uma outra lagoa onde todos os dias era uma verdadeira festa.</p>
+
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/Gemini_Generated_Image_9895cg9895cg9895.jpg?raw=true" alt="Imagem de um jacaré solitário e triste" style="max-width: 100%; height: auto;">
+
+<p>Foi então que ele decidiu tomar uma drástica decisão:</p>
+[[sair de seu lago]]
+[[Continuar no lago]]
+
+
+
+
+:: sair de seu lago {"position":"675,375","size":"100,100"}
+Depois de muito pensar, ele decidiu sair do lago onde ele viveu a sua vida inteira.
+Durante sua caminhada ele ficou com muita fome e encontrou uma arvore frutifera
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/walking-on-leaves-260279.mp3" autoplay></audio>
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/Saindo%20do%20lago.jpg?raw=true" alt="Imagem de um jacaré solitário e triste saindo do lago" style="max-width: 100%; height: auto;">
+
+[[comer]]
+[[seguir em frente]]
+
+
+:: seguir em frente {"position":"700,550","size":"100,100"}
+Finalmente ele chegou em uma nova lagoa muito linda e com muito mais animais, toda hora era uma verdadeira festa!
+
+Um grupo de patos ao ver o visitantes sinalizou para aproximar
+<audio src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/raw/refs/heads/main/sons/cartoon-142268.mp3" autoplay></audio>
+<img src="https://github.com/pedrorchagas/Atividade-Jogo-Jacare/blob/main/imagens/chegando%20no%20lago.jpg?raw=true" alt="Imagem de um jacaré solitário chegando no lago" style="max-width: 100%; height: auto;">
+
+[[falar com os patos]]
+[[ignorar os patos]]
